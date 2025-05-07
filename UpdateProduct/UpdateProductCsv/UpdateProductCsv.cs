@@ -17,19 +17,11 @@ namespace UpdateProductCsv
     {
         public static int Main(string[] args)
         {
-            if (args.Length != 2)
-            {
-                Console.WriteLine("Usage: UpdateProductCsv <filename.csv> <percentage>");
-                return 1;
-            }
+            Product.IsValidArgLength(args);
 
             string fileName = args[0];
 
-            if (!File.Exists(fileName) || !fileName.EndsWith(".csv"))
-            {
-                Console.WriteLine("Error: File must be a .csv and must exist.");
-                return 1;
-            }
+            Product.IsValidFileName(fileName);
 
             if (!decimal.TryParse(args[1], NumberStyles.Any, CultureInfo.InvariantCulture, out decimal percent))
             {
@@ -65,7 +57,6 @@ namespace UpdateProductCsv
                 }
             }
 
-
             for (int i = 0; i < retails.Length; i++)
             {
                 retails[i] = Math.Round(retails[i] * (1 + percent / 100), 2);
@@ -80,18 +71,7 @@ namespace UpdateProductCsv
                 updatedLines[i + 1] = Product.CreateCsvLine(productCodes[i], descriptions[i], taxClasses[i], retails[i]);
             }
 
-            string tempFile = Path.ChangeExtension(fileName, ".$$$");
-            File.WriteAllLines(tempFile, updatedLines);
-
-            string backupFile = Path.ChangeExtension(fileName, ".bak");
-
-            if (File.Exists(backupFile))
-            {
-                File.Delete(backupFile);
-            }
-
-            File.Move(fileName, backupFile);
-            File.Move(tempFile, fileName);
+            Product.CreateBackup(fileName, updatedLines);
 
             Console.WriteLine("Prices updated and file saved.");
 

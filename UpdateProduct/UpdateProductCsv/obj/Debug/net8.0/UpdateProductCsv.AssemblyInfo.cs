@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdateProductCsv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ece6f4d3f7d4f4e6095676b6f79a514c3cba14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792cd91c720b7dc3b24b50caefac39b1368c1b19")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdateProductCsv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdateProductCsv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

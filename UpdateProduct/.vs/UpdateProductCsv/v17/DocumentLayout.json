@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Proramming (Unit Tests)\\C# Programming (UT)\\UpdateProduct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA474179-C840-4043-9FCE-407A6324C240}|UpdateProductCsv\\UpdateProductCsv.csproj|c:\\abendschule\\programmieren und software c#\\c# programming\\c# proramming (unit tests)\\c# programming (ut)\\updateproduct\\updateproductcsv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA474179-C840-4043-9FCE-407A6324C240}|UpdateProductCsv\\UpdateProductCsv.csproj|solutionrelative:updateproductcsv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA474179-C840-4043-9FCE-407A6324C240}|UpdateProductCsv\\UpdateProductCsv.csproj|c:\\abendschule\\programmieren und software c#\\c# programming\\c# proramming (unit tests)\\c# programming (ut)\\updateproduct\\updateproductcsv\\updateproductcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA474179-C840-4043-9FCE-407A6324C240}|UpdateProductCsv\\UpdateProductCsv.csproj|solutionrelative:updateproductcsv\\updateproductcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Proramming (Unit Tests)\\C# Programming (UT)\\UpdateProduct\\UpdateProductCsv\\Product.cs",
+              "RelativeDocumentMoniker": "UpdateProductCsv\\Product.cs",
+              "ToolTip": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Proramming (Unit Tests)\\C# Programming (UT)\\UpdateProduct\\UpdateProductCsv\\Product.cs",
+              "RelativeToolTip": "UpdateProductCsv\\Product.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:53:00.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UpdateProductCsv.cs",
               "DocumentMoniker": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Proramming (Unit Tests)\\C# Programming (UT)\\UpdateProduct\\UpdateProductCsv\\UpdateProductCsv.cs",
               "RelativeDocumentMoniker": "UpdateProductCsv\\UpdateProductCsv.cs",
               "ToolTip": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Proramming (Unit Tests)\\C# Programming (UT)\\UpdateProduct\\UpdateProductCsv\\UpdateProductCsv.cs",
               "RelativeToolTip": "UpdateProductCsv\\UpdateProductCsv.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwGQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwD0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T17:16:13.241Z",
               "EditorCaption": ""
