@@ -40,23 +40,24 @@ namespace UpdateProductCsv
 
             return false;
         }
-        public static int IsValidArgLength(string[] argLength)
+        public static bool IsValidArgLength(string[] argLength)
         {
-            if (argLength.Length != 2)
+            if (argLength.Length == 2)
             {
-                Console.WriteLine("Usage: UpdateProductCsv <filename.csv> <percentage>");
-                return 1;
+                return true;
             }
-            return 0;
+
+            Console.WriteLine("Usage: UpdateProductCsv <filename.csv> <percentage>");
+            return false;
         }
-        public static int IsValidFileName(string fileName)
+        public static bool IsValidFileName(string fileName)
         {
-            if (!File.Exists(fileName) || !fileName.EndsWith(".csv"))
+            if (File.Exists(fileName) && fileName.EndsWith(".csv"))
             {
-                Console.WriteLine("Error: File must be a .csv and must exist.");
-                return 1;
+                return true;
             }
-            return 0;
+            Console.WriteLine("Error: File must be a .csv and must exist.");
+            return false;
         }
         public static void CreateBackup(string fileName, string[] updatedList)
         {

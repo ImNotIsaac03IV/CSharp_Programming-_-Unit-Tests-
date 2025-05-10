@@ -17,11 +17,17 @@ namespace UpdateProductCsv
     {
         public static int Main(string[] args)
         {
-            Product.IsValidArgLength(args);
+            if (!Product.IsValidArgLength(args))
+            {
+                return 1;
+            }
 
             string fileName = args[0];
 
-            Product.IsValidFileName(fileName);
+            if (!Product.IsValidFileName(fileName))
+            {
+                return 1;
+            }
 
             if (!decimal.TryParse(args[1], NumberStyles.Any, CultureInfo.InvariantCulture, out decimal percent))
             {

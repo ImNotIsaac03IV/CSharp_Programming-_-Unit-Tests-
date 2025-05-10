@@ -1,6 +1,0 @@
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.csproj.AssemblyReference.cache
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
-C:\Abendschule\Programmieren und Software C#\C# Programming\C# Proramming (Unit Tests)\C# Programming (UT)\UpdateProduct\UnitTests\obj\Debug\net8.0\UnitTest.sourcelink.json
