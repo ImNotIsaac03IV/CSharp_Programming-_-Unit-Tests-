@@ -1,0 +1,17 @@
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\FileWizard.exe
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\FileWizard.deps.json
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\FileWizard.runtimeconfig.json
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\FileWizard.dll
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\FileWizard.pdb
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.AssemblyInfoInputs.cache
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.AssemblyInfo.cs
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.csproj.CoreCompileInputs.cache
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.sourcelink.json
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.dll
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\refint\FileWizard.dll
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.pdb
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\FileWizard.genruntimeconfig.cache
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\obj\Debug\net8.0\ref\FileWizard.dll
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\logo.txt
+C:\Abendschule\Programmieren und Software C#\C# Programming\C# Programming (Unit Tests)\C# Programming (UT)\FileWizard\FileWizard\bin\Debug\net8.0\Maja.txt

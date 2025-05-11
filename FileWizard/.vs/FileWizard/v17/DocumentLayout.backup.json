@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Programming (Unit Tests)\\C# Programming (UT)\\FileWizard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542BF40C-60C1-47EE-8897-2BA6B27F1C2D}|FileWizard\\FileWizard.csproj|c:\\abendschule\\programmieren und software c#\\c# programming\\c# programming (unit tests)\\c# programming (ut)\\filewizard\\filewizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BF40C-60C1-47EE-8897-2BA6B27F1C2D}|FileWizard\\FileWizard.csproj|solutionrelative:filewizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Programming (Unit Tests)\\C# Programming (UT)\\FileWizard\\FileWizard\\Program.cs",
+              "RelativeDocumentMoniker": "FileWizard\\Program.cs",
+              "ToolTip": "C:\\Abendschule\\Programmieren und Software C#\\C# Programming\\C# Programming (Unit Tests)\\C# Programming (UT)\\FileWizard\\FileWizard\\Program.cs",
+              "RelativeToolTip": "FileWizard\\Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAcwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:41:45.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
